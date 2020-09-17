@@ -9,5 +9,4 @@
 **About me**: Charismatic, meticulous, purposeful.  
  **Language**:  
 * English: A2+ 
-* Russian: Native.  
-**Thanks**
+* Russian: Native.
