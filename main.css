@@ -1,0 +1,23 @@
+body {
+    font-family: "Andale Mono", monospace;
+}
+
+.subtitle {
+        font-weight: bold;
+}
+.container {
+    width: 800px;
+    margin: 0 auto;
+}
+
+.cv-content {
+    width: 500px;
+    }
+
+.cv-photo {
+    width: 200px;
+    float: right;
+}
+.cv-photo img {
+     width: inherit;  
+}
