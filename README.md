@@ -1,1 +1,1 @@
-https://kyotomeister.github.io/rsschool-cv/cv
+https://kyotomeister.github.io/rsschool-cv
